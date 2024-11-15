@@ -1,4 +1,4 @@
-# Ch.6, Ex.2
+# Ch.6, Ex.1
 # Saba Feilizadeh
 # This program handles a list of friends I met in 2017 and 2018
 # It allows the user to search for a friend, add a friend, and display the lists of friends.
