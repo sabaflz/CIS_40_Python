@@ -77,7 +77,7 @@ Error lines:
 Done!
 
 =============================================================
-Output:
+Output 2:
 =============================================================
 Enter the name of the file: output.txt
 Error! output.txt doesn't exist!
