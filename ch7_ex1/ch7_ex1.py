@@ -20,7 +20,7 @@ def main():
                   # Counters
                   linesCount = 0
                   errorLinesCount = 0
-                  # List to store the lines with error
+                  # Store the lines with error in a list
                   errorLinesList = []
 
                   # Read from the file
